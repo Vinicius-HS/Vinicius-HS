@@ -1,13 +1,13 @@
 <div align="center">
-  <img height="170" src="https://avatars.githubusercontent.com/u/190317865?s=400&u=93ccf7fd6a5f1ff90f6001b25543820e46108d05&v=4"  />
+  <img height="170" src="https://th.bing.com/th/id/R.ddbc96394fde8517c81bf052e1114526?rik=M0CSO%2fXyfuJrVA&pid=ImgRaw&r=0"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo">
+ 
 </div>
 
 ###
@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim:</h3>
+<h4 align="left">  Sobre mim <br> ＼（〇_ｏ）／ </h4>
 
 ###
 
