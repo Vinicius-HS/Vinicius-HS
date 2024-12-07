@@ -24,8 +24,8 @@
     <h3>＼（〇_ｏ）／</h3>
 
  
-   <p align="left">Sou de Botucatu<br><br>- 🔭 Atualmente trabalho com <strong>Frelance</strong><br>- 📚 Aprendendo análise 
-   de   dados</p>
+   <p align="left">Sou de Botucatu<br><br>- 🔭 Atualmente trabalho com <strong>Freelance</strong><br>- 📚 Aprendendo análise 
+   de dados</p>
 </div>
 
 ##
